@@ -1,5 +1,5 @@
 # Blinkit-Dashboard
-I'm thrilled to present the completion of my recent work on the Blinkit Sales Analysis Dashboard. This project has been a fantastic journey, 
+In This Project i have Developed Blinkit Sales Analysis Dashboard. The project has been a fantastic journey, 
 combining my passion for data analysis with practical applications in Power BI. 🎉📊
 
 OBJECTIVE:🎯
